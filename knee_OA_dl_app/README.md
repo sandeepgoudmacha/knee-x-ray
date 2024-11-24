@@ -252,6 +252,3 @@ score.
 - [Knee Osteoarthritis Dataset with Severity
   Grading](https://www.kaggle.com/datasets/shashwatwork/knee-osteoarthritis-dataset-with-severity)
 
----
-
-made with 💙 by [mafda](https://mafda.github.io/)
